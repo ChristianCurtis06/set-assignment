@@ -1,0 +1,1 @@
+This repository includes the assignment: Python Sets in Module 3: Lesson 3 of the Software Engineering Core.
